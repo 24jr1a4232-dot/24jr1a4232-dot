@@ -26,7 +26,7 @@
 - 💡 I love turning messy, real-world data into models that make smart decisions
 - 🤝 I'm open to collaborating on **AI/ML research, open-source projects, and applied AI products**
 - ⚡ Fun fact: I believe the best models are the ones that generalize — in code and in life
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **24jr1a4232@gmail.com**
 
 ---
 
